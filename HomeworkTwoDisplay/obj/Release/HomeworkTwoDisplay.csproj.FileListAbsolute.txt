@@ -1,0 +1,58 @@
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.exe.config
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.exe
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\LinkAndClear.dll
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\MotionPlanningAlgorithms.dll
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\Utility.dll
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\LinkAndClear.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\MotionPlanningAlgorithms.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\Utility.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\MainWindow.baml
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\MainWindow.g.cs
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\App.g.cs
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay_MarkupCompile.cache
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.g.resources
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.Properties.Resources.resources
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.csproj.GenerateResource.Cache
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.exe
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.exe.config
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.exe
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.exe
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\LinkAndClear.dll
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\MotionPlanningAlgorithms.dll
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\Utility.dll
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\LinkAndClear.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\MotionPlanningAlgorithms.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\Utility.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\MainWindow.baml
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\MainWindow.g.cs
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\App.g.cs
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay_MarkupCompile.cache
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.g.resources
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.Properties.Resources.resources
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\GenerateResource.write.1.tlog
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.exe.config
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.exe
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.exe
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\HomeworkTwoDisplay.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\LinkAndClear.dll
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\MotionPlanningAlgorithms.dll
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\Utility.dll
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\LinkAndClear.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\MotionPlanningAlgorithms.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Release\Utility.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.csprojResolveAssemblyReference.cache
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\MainWindow.baml
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\MainWindow.g.cs
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\App.g.cs
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay_MarkupCompile.cache
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.g.resources
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.Properties.Resources.resources
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Release\HomeworkTwoDisplay.csproj.GenerateResource.Cache

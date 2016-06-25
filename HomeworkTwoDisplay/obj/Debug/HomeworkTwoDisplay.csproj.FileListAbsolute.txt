@@ -1,0 +1,99 @@
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe.config
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.pdb
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\LinkAndClear.dll
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.dll
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\Utility.dll
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\LinkAndClear.pdb
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.pdb
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\bin\Debug\Utility.pdb
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csprojResolveAssemblyReference.cache
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\MainWindow.baml
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\MainWindow.g.cs
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\App.g.cs
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay_MarkupCompile.cache
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.g.resources
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.Properties.Resources.resources
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csproj.GenerateResource.Cache
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.exe
+c:\Users\kylelm\Documents\Visual Studio 2012\Projects\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.pdb
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe.config
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.pdb
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\LinkAndClear.dll
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.dll
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\Utility.dll
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\LinkAndClear.pdb
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.pdb
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\Utility.pdb
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csprojResolveAssemblyReference.cache
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\MainWindow.baml
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\App.g.cs
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay_MarkupCompile.cache
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.g.resources
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.Properties.Resources.resources
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csproj.GenerateResource.Cache
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.exe
+C:\Users\testing32\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe.config
+C:\Users\kylelm\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.exe
+C:\Users\kylelm\Documents\Dropbox\Code\LinkAndClear\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe.config
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\LinkAndClear.dll
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.dll
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\Utility.dll
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\LinkAndClear.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\Utility.pdb
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csprojResolveAssemblyReference.cache
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\MainWindow.baml
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\App.g.cs
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay_MarkupCompile.cache
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.g.resources
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.Properties.Resources.resources
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csproj.GenerateResource.Cache
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.exe
+C:\Users\testing32\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe.config
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.exe
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe.config
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\LinkAndClear.dll
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.dll
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\Utility.dll
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\LinkAndClear.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\Utility.pdb
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\MainWindow.baml
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\MainWindow.g.cs
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\App.g.cs
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay_MarkupCompile.cache
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.g.resources
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.Properties.Resources.resources
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.exe
+C:\Documents and Settings\Kyle Miller\My Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.exe
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\HomeworkTwoDisplay.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\LinkAndClear.dll
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.dll
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\Utility.dll
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\LinkAndClear.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\MotionPlanningAlgorithms.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\bin\Debug\Utility.pdb
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csprojResolveAssemblyReference.cache
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\MainWindow.baml
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\App.g.cs
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay_MarkupCompile.cache
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.g.resources
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.Properties.Resources.resources
+C:\Users\kylelm\Documents\Dropbox\Code\HomeworkTwo\HomeworkTwoDisplay\obj\Debug\HomeworkTwoDisplay.csproj.GenerateResource.Cache
